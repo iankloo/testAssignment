@@ -12,3 +12,6 @@ This section is a basic markdown document, so we can provide code instructions (
 
 3. Come back to the original repository, click "New Pull Request" on the top left of the page.  Submit your pull request to turn in the assignment.
 
+## Privacy
+
+This test repo is fully public for our testing.  If we make it private, the pull requests (i.e., submissions) from students will not be visible to other students.  We just need to invite the students to the private repo (give them read-only rights).
